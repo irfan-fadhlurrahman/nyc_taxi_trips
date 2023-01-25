@@ -40,11 +40,16 @@ sudo chown 5050:5050 data/data_pgadmin
 
 Create a server for database
 * Click Register -> Server
-[img]()
+
+![alt text](https://github.com/irfan-fadhlurrahman/nyc_taxi_trips/blob/main/postgres_pgadmin/img/register-server.PNG)
+
 * Define the server name
-[img]()
+
+![alt text](https://github.com/irfan-fadhlurrahman/nyc_taxi_trips/blob/main/postgres_pgadmin/img/register-general.PNG)
+
 * Define hostname, username, and password as per [docker-compose.yaml]() then click save
-[img]()
+
+![alt text](https://github.com/irfan-fadhlurrahman/nyc_taxi_trips/blob/main/postgres_pgadmin/img/register-connection.PNG)
 
 ### 3. Ingest the dataset into Postgres database
 Build docker image for [ingest_data.py]()
