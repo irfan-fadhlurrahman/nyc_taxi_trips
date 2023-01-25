@@ -1,0 +1,8 @@
+# Pipenv cheatsheet: https://gist.github.com/ziritrion/8024025672ea92b8bdeb320d6015aa0d
+
+# python==3.9
+psycopg2_binary==2.9.5
+sqlalchemy>=1.4
+pandas==1.5.3
+jupyterlab>=3.5
+ipywidgets==8.0.4
