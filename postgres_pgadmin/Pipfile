@@ -9,6 +9,7 @@ sqlalchemy = ">=1.4"
 pandas = "==1.5.3"
 jupyterlab = ">=3.5"
 ipywidgets = "==8.0.4"
+python-dotenv = "*"
 
 [dev-packages]
 
