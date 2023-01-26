@@ -76,3 +76,6 @@ docker run -it \
    --table_name=yellow_taxi_trips \
    --url=https://github.com/DataTalksClub/nyc-tlc-data/releases/download/yellow/yellow_tripdata_2021-01.csv.gz
 ```
+
+### References to read
+* https://medium.com/@liftingthedata/kick-start-your-data-engineering-zoomcamp-with-these-tips-53c5208f0791
